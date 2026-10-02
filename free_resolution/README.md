@@ -12,3 +12,11 @@ Like the built-in ResolutionSelector, but with a freely configurable aspect rati
 Outputs an empty latent (16 channels, 8x downscale). Tested with Anima, Flux 2, Krea 2 and SDXL.
 
 Category: `X4Lch3mist/latent`
+
+Samples: 
+
+![Free Resolution Selector](../preview-images/free_resolution_001.png)
+
+![Free Resolution Selector](../preview-images/free_resolution_002.png)
+
+![Free Resolution Selector](../preview-images/free_resolution_003.png)
