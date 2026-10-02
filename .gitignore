@@ -1,1 +1,3 @@
+__pycache__/
+*.pyc
 auto_checkpoint/model_map.json
