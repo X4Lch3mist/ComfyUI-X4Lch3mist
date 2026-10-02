@@ -1,0 +1,15 @@
+{
+  "@SDXL": {
+    "vae": "sdxl_vae.safetensors"
+  },
+  "@SD15": {
+    "vae": "vae-ft-mse-840000-ema-pruned.safetensors"
+  },
+  "pony/*": {
+    "vae": "sdxl_vae.safetensors"
+  },
+  "my_checkpoint.safetensors": {
+    "vae": "sdxl_vae.safetensors",
+    "clip": ["clip_l.safetensors", "clip_g.safetensors"]
+  }
+}
