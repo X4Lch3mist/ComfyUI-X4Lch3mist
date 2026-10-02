@@ -15,3 +15,9 @@ Entries are matched in this order:
 The `info` output shows what was loaded, e.g. `arch=SDXL | match=@SDXL | vae=sdxl_vae.safetensors | clip=checkpoint`.
 
 Category: `X4Lch3mist/loaders`
+
+Samples: 
+
+![Load Checkpoint (Auto VAE/CLIP)](../preview-images/auto_checkpoint_001.png)
+
+![Load Checkpoint (Auto VAE/CLIP)](../preview-images/auto_checkpoint_002.png)
