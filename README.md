@@ -19,3 +19,18 @@ Loads a checkpoint and automatically swaps in an external VAE and/or CLIP, based
 ## Installation
 
 ### Via Git
+
+cd ComfyUI/custom_nodes
+git clone https://github.com/X4Lch3mist/ComfyUI-X4Lch3mist.git
+
+Restart ComfyUI afterwards.
+
+### Manual
+
+1. Download the repository as ZIP (Code → Download ZIP)
+2. Unzip it into `ComfyUI/custom_nodes/` and rename the folder to `ComfyUI-X4Lch3mist`
+3. Restart ComfyUI
+
+## License
+
+GPL-3.0
