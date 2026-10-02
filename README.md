@@ -20,8 +20,10 @@ Loads a checkpoint and automatically swaps in an external VAE and/or CLIP, based
 
 ### Via Git
 
+```bash
 cd ComfyUI/custom_nodes
 git clone https://github.com/X4Lch3mist/ComfyUI-X4Lch3mist.git
+```
 
 Restart ComfyUI afterwards.
 
