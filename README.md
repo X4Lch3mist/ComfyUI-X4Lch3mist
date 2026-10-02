@@ -6,7 +6,7 @@ Custom nodes for ComfyUI by X4Lch3mist. All nodes are found under the `X4Lch3mis
 
 ### Free Resolution Selector (custom ratio)
 
-![Free Resolution Selector](https://raw.githubusercontent.com/X4Lch3mist/assets/main/ComfyUI-X4Lch3mist/preview-images/free_resolution_001.png)
+![Free Resolution Selector](../preview-images/free_resolution_001.png)
 
 Like the built-in ResolutionSelector, but with a freely configurable aspect ratio instead of a fixed dropdown. Target size in megapixels, rounding to a multiple of your choice, live resolution preview, swap button, and width/height as separate outputs.
 
@@ -14,7 +14,7 @@ Like the built-in ResolutionSelector, but with a freely configurable aspect rati
 
 ### Load Checkpoint (Auto VAE/CLIP)
 
-![Load Checkpoint](https://raw.githubusercontent.com/X4Lch3mist/assets/main/ComfyUI-X4Lch3mist/preview-images/auto_checkpoint_001.png)
+![Load Checkpoint (Auto VAE/CLIP)](../preview-images/auto_checkpoint_001.png)
 
 Loads a checkpoint and automatically swaps in an external VAE and/or CLIP, based on a mapping file. Matches by file name, wildcard pattern or model architecture.
 
