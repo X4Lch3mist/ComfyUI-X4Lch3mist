@@ -1,0 +1,18 @@
+[project]
+name = "x4lch3mist"
+version = "1.0.0"
+description = "Custom nodes by X4Lch3mist: Free Resolution Selector (freely configurable aspect ratio, megapixel target, width/height outputs) and Load Checkpoint (Auto VAE/CLIP) with per-file and per-architecture VAE/CLIP mapping."
+license = { file = "LICENSE" }
+requires-python = ">=3.9"
+dependencies = []
+classifiers = [
+    "Operating System :: OS Independent"
+]
+
+[project.urls]
+Repository = "https://github.com/X4Lch3mist/ComfyUI-X4Lch3mist"
+"Bug Tracker" = "https://github.com/X4Lch3mist/ComfyUI-X4Lch3mist/issues"
+
+[tool.comfy]
+PublisherId = "x4lch3mist"
+DisplayName = "X4Lch3mist Nodes"
