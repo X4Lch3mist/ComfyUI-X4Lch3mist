@@ -38,7 +38,7 @@ class FreeResolutionSelector:
         height = self._round_to_multiple(ratio_height * scale, multiple)
 
         latent = torch.zeros([1, 16, height // 8, width // 8])
-        return ({"samples": latent}, width, height)
+        return ({"samples": latent, "downscale_ratio_spacial": 8}, width, height)
 
 NODE_CLASS_MAPPINGS = {"FreeResolutionSelector": FreeResolutionSelector}
 NODE_DISPLAY_NAME_MAPPINGS = {"FreeResolutionSelector": "Free Resolution Selector (custom ratio)"}
