@@ -2,7 +2,7 @@
 @author: X4Lch3mist
 @title: X4Lch3mist Nodes
 @nickname: X4Lch3mist
-@description: Custom nodes by X4Lch3mist: Free Resolution Selector (freely configurable aspect ratio) and Load Checkpoint (Auto VAE/CLIP).
+@description: Custom nodes by X4Lch3mist: Free Resolution Selector (freely configurable aspect ratio), Load Checkpoint (Auto VAE/CLIP), Dither 1-bit and ASCII Art.
 """
 
 import os

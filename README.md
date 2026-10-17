@@ -20,6 +20,14 @@ Loads a checkpoint and automatically swaps in an external VAE and/or CLIP, based
 
 → [Details and setup](auto_checkpoint/README.md)
 
+### Dither 1-bit / ASCII Art
+
+![ASCII Art](preview-images/dither_ascii_001.png)
+
+Turns an image into a 1-bit dither (stripes, Bayer, halftone, error diffusion) or into ASCII art with a monospace font. Black point, pattern and colors are adjustable, the output keeps the input resolution and includes a mask.
+
+→ [Details](dither_ascii/README.md)
+
 ## Installation
 
 ### Via Git
@@ -30,12 +38,6 @@ git clone https://github.com/X4Lch3mist/ComfyUI-X4Lch3mist.git
 ```
 
 Restart ComfyUI afterwards.
-
-### Manual
-
-1. Download the repository as ZIP (Code → Download ZIP)
-2. Unzip it into `ComfyUI/custom_nodes/` and rename the folder to `ComfyUI-X4Lch3mist`
-3. Restart ComfyUI
 
 ## License
 
