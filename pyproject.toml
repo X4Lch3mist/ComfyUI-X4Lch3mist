@@ -1,6 +1,6 @@
 [project]
 name = "x4lch3mist"
-version = "1.1.0"
+version = "1.1.1"
 description = "Custom nodes by X4Lch3mist: Free Resolution Selector (freely configurable aspect ratio, megapixel target, width/height outputs), Load Checkpoint (Auto VAE/CLIP) with per-file and per-architecture VAE/CLIP mapping, Dither 1-bit (stripes, Bayer, halftone, error diffusion) and ASCII Art."
 license = { file = "LICENSE" }
 requires-python = ">=3.9"
